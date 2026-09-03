@@ -1,0 +1,6 @@
+{
+  "name": "Club Gym Saleux",
+  "description": "Plateforme officielle du Club Gym Saleux : plannings des cours fitness, Pilates, Zumba et yoga, réservations, adhésions et actualités.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
